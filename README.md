@@ -24,3 +24,6 @@ Now you can pen your web browser and navigate to http://localhost:8501
 ### Playing around with the app
 
 Now that the app is up and running, upload the paper "Attention is all you need" through the sidebar. The ChatBot is now ready to respond to your queries about the paper. Due to the large size of the model, response times can reach up to 15 minutes. The ChatBot is specifically designed to answer questions related to the pdf that has been uploaded. 
+
+The image below shows what the app should look like:
+![App Interface](example.png)
